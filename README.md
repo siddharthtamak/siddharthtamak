@@ -1,6 +1,6 @@
 ![MasterHead](https://www.git-tower.com/blog/assets/img/default-post-header@960w.png)
 
-<h1 align="center">Hi there👋, I'm Siddharth Tamak</h1>
+<h1 align="center">Hi there👋, Siddharth Tamak this side</h1>
 <h3 align="center">A Computer Science student and a programmer</h3>
 <img align="right" alt="coding" width=400 src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
 
