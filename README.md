@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java, React, Machine Learning, Mongo DB**
 
-- 📫 How to reach me **siddharthpabnawa@gmail.com**
+- 📫 How to reach me **siddharthpabnawa4803@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
