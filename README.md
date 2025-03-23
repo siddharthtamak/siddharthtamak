@@ -1,16 +1,5 @@
 ![MasterHead](https://www.git-tower.com/blog/assets/img/default-post-header@960w.png)
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siddharthtamak/siddharthtamak/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siddharthtamak/siddharthtamak/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/siddharthtamak/siddharthtamak/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-
 <img align="right" alt="coding" width=400 src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <h1 align="center">Hi there👋, Siddharth Tamak this side</h1>
@@ -38,3 +27,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharthtamak&show_icons=true&locale=en&layout=compact" alt="siddharthtamak" /></p>
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siddharthtamak/siddharthtamak/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siddharthtamak/siddharthtamak/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/siddharthtamak/siddharthtamak/output/pacman-contribution-graph.svg">
+</picture>
