@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Keras, Tensorflow and Deep Learning**
 
-- 📫 How to reach me **siddharthpabnawa4803@gmail.com**
+- 📫 How to reach me **siddharthtamak@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
