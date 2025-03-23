@@ -1,8 +1,8 @@
 ![MasterHead](https://www.git-tower.com/blog/assets/img/default-post-header@960w.png)
 
-<img align="right" alt="coding" width=400 src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 <h1 align="center">Hi there👋, Siddharth Tamak this side</h1>
+
+<img align="right" alt="coding" width=400 src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <h3 align="center">Data Scientist| AI ML Engineer</h3>
 
 - 📝 I regularly write articles on [medium.com](medium.com)
