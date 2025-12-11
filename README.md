@@ -1,3 +1,4 @@
+
 <h3 align="center">Wannabe Data Scientist</h3>
 
 - 🔭 I’m currently working on **a Multimodal Video Content Moderation System**
@@ -8,7 +9,7 @@
 
 - 📫 How to reach me **siddharthtamak@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kRSl5HEfP7e4sWkKyNFqgFuyBMoq121S/view?usp=sharing](https://drive.google.com/file/d/1kRSl5HEfP7e4sWkKyNFqgFuyBMoq121S/view?usp=sharing)
+- 📄 Know about my experiences [My_resume.pdf](https://drive.google.com/file/d/1kRSl5HEfP7e4sWkKyNFqgFuyBMoq121S/view?usp=sharing)
 
 - ⚡ Fun fact **The Pope can't be an organ donor.**
 
